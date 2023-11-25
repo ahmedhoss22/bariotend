@@ -898,3 +898,21 @@ ul.social2_icon li a:hover {
 
 
 /** end footer **/
+
+
+
+
+
+
+.whatsapp-icon{
+     position: fixed;
+     left: 10px;
+     bottom: 50px;
+     width: 50px;
+     height: 50px;
+     z-index: 10;
+     transition: .3s;
+}
+.whatsapp-icon:hover{
+     transform: scale(1.1) translateY(-5px);
+}
